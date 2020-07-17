@@ -78,7 +78,6 @@ exclude:
     - INSTALL.md
     - vendor
 
-
 # The language setting is used in /includes/header.html for html-settings
 language: 'tr'
 
