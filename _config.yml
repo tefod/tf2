@@ -26,7 +26,7 @@ description: 'Tekirdağ Fotoğraf Derneği'
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://tefod.github.io/tf2'
-baseurl: '/ana-sayfa'
+baseurl: '/feeling-responsive'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
